@@ -16,7 +16,7 @@ Built from patterns used in production platforms processing 10K+ monthly transac
 
 ```bash
 pip install -r requirements.txt
-python src/demo.py
+python src/orchestrator.py
 ```
 
 ## Tech stack
